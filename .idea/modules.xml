@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/sort.iml" filepath="$PROJECT_DIR$/.idea/sort.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/algorithm-learn.iml" filepath="$PROJECT_DIR$/.idea/algorithm-learn.iml" />
+>>>>>>> 1c2ade039637dfa0f9e8b5c0c3fdd69583f18335
     </modules>
   </component>
 </project>
